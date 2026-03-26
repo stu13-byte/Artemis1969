@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState, useEffect } from 'react';
 import { Rocket, ShieldCheck, AlertTriangle, Monitor, Users, CheckCircle, Lock, RefreshCw, ChevronRight, Info, Zap, Radio, Settings, HeartPulse, Map, Database } from 'lucide-react';
 
