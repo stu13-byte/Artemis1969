@@ -40,7 +40,7 @@ const DEPARTMENTS = {
       story: "다음 알파벳들을 보고 숨겨진 의미를 찾으세요.\n\nL Z O\n사이가 좋아!\nN B Q",
       clues: ["영어 대문자 3글자로 입력하세요."],
       answer: "MAP",
-      locationHint: "MAP"
+      locationHint: "지도를 찾으세요"
     }
   },
   2: {
@@ -76,7 +76,7 @@ const DEPARTMENTS = {
       story: "수의 의미는?\n\n111110(2)",
       clues: ["숫자만 입력하세요."],
       answer: "62",
-      locationHint: "62(어딨을까?)"
+      locationHint: "청소함을 확인하세요"
     }
   },
   4: {
@@ -112,7 +112,7 @@ const DEPARTMENTS = {
       story: "식사용 포크와 로켓 그림이 나란히 있습니다.\n포크 + 로켓 = ?",
       clues: ["영어 대문자 6글자로 입력하세요."],
       answer: "POCKET",
-      locationHint: "POCKET"
+      locationHint: "POCKET을 찾으세요"
     }
   },
   6: {
@@ -130,7 +130,7 @@ const DEPARTMENTS = {
       story: "BALL(공) ↔ LUCK(운)\n지금(NOW) ↔ 월요일(MON'DAY)\n\nBEAR(곰) ↔ ?\n물음표에 들어갈 네 글자 영어 단어는?",
       clues: ["영어 대문자 4글자로 입력하세요."],
       answer: "DOOR",
-      locationHint: "DOOR"
+      locationHint: "DOOR에 있어요"
     }
   }
 };
