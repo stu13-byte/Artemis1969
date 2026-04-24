@@ -54,11 +54,11 @@ const DEPARTMENTS = {
     },
     stage3: {
       title: "이미지 연상",
-      imageUrl: "https://i.imgur.com/TiGP9PA.png",
-      story: "알루미늄 캔(CAN)의 표면에 알파벳 'D'가 크게 적혀 있는 그림이 수신되었습니다. 이것이 의미하는 단어는 무엇일까요?",
-      clues: ["영어 대문자 5글자로 입력하세요."],
-      answer: "CANDY",
-      locationHint: "캔디"
+      imageUrl: "https://i.imgur.com/Rhy7lfs.png",
+      story: "다음 그림이 의미하는 것은 무엇인가요?",
+      clues: ["한글 두 글자로 입력하세요"],
+      answer: "자석",
+      locationHint: "자석바구니"
     }
   },
   3: {
