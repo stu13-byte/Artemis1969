@@ -68,7 +68,7 @@ const DEPARTMENTS: Record<number, DeptInfo> = {
       story: '다음 알파벳들을 보고 숨겨진 의미를 찾으세요.\n\nL Z O\n사이가 좋아!\nN B Q',
       clues: ['영어 대문자 3글자로 입력하세요.'],
       answer: 'MAP',
-      locationHint: '지도를 찾으세요',
+      locationHint: '그림 뒤를 살펴보세요',
     },
   },
   2: {
@@ -86,7 +86,7 @@ const DEPARTMENTS: Record<number, DeptInfo> = {
       story: '다음 그림이 의미하는 것은 무엇인가요?',
       clues: ['한글 두 글자로 입력하세요'],
       answer: '자석',
-      locationHint: '자석바구니',
+      locationHint: '자석 사이의 수상한 글',
     },
   },
   3: {
