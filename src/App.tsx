@@ -68,7 +68,7 @@ const DEPARTMENTS: Record<number, DeptInfo> = {
       story: '다음 알파벳들을 보고 숨겨진 의미를 찾으세요.\n\nL Z O\n사이가 좋아!\nN B Q',
       clues: ['영어 대문자 3글자로 입력하세요.'],
       answer: 'MAP',
-      locationHint: '그림 뒤를 살펴보세요',
+      locationHint: '게시판 쪽 그림을 살펴보세요',
     },
   },
   2: {
