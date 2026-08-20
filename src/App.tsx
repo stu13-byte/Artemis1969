@@ -86,7 +86,7 @@ const DEPARTMENTS: Record<number, DeptInfo> = {
       story: '다음 그림이 의미하는 것은 무엇인가요?',
       clues: ['한글 두 글자로 입력하세요'],
       answer: '자석',
-      locationHint: '자석 사이의 수상한 글',
+      locationHint: '거울',
     },
   },
   3: {
@@ -104,7 +104,7 @@ const DEPARTMENTS: Record<number, DeptInfo> = {
       story: '수의 의미는?\n\n111110(2)',
       clues: ['숫자만 입력하세요.'],
       answer: '62',
-      locationHint: '청소함을 확인하세요',
+      locationHint: '청소함',
     },
   },
   4: {
@@ -140,7 +140,7 @@ const DEPARTMENTS: Record<number, DeptInfo> = {
       story: '식사용 포크와 로켓 그림이 나란히 있습니다.\n포크 + 로켓 = ?',
       clues: ['영어 대문자 6글자로 입력하세요.'],
       answer: 'POCKET',
-      locationHint: 'POCKET을 찾으세요',
+      locationHint: '공용물품',
     },
   },
   6: {
